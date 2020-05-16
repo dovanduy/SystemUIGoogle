@@ -1,0 +1,95 @@
+// 
+// Decompiled by Procyon v0.5.36
+// 
+
+package com.android.settingslib;
+
+public final class R$string
+{
+    public static final int accessibility_no_wifi = 2131820671;
+    public static final int accessibility_wifi_one_bar = 2131820785;
+    public static final int accessibility_wifi_security_type_none = 2131820786;
+    public static final int accessibility_wifi_security_type_secured = 2131820787;
+    public static final int accessibility_wifi_signal_full = 2131820788;
+    public static final int accessibility_wifi_three_bars = 2131820789;
+    public static final int accessibility_wifi_two_bars = 2131820790;
+    public static final int alarm_template = 2131820836;
+    public static final int alarm_template_far = 2131820837;
+    public static final int battery_meter_very_low_overlay_symbol = 2131820886;
+    public static final int bluetooth_pairing_device_down_error_message = 2131820971;
+    public static final int bluetooth_pairing_error_message = 2131820972;
+    public static final int bluetooth_pairing_pin_error_message = 2131820973;
+    public static final int bluetooth_pairing_rejected_error_message = 2131820974;
+    public static final int bluetooth_talkback_bluetooth = 2131821012;
+    public static final int bluetooth_talkback_computer = 2131821013;
+    public static final int bluetooth_talkback_headphone = 2131821014;
+    public static final int bluetooth_talkback_headset = 2131821015;
+    public static final int bluetooth_talkback_imaging = 2131821016;
+    public static final int bluetooth_talkback_input_peripheral = 2131821017;
+    public static final int bluetooth_talkback_phone = 2131821018;
+    public static final int cancel = 2131821049;
+    public static final int connected_via_app = 2131821089;
+    public static final int connected_via_network_scorer = 2131821091;
+    public static final int connected_via_network_scorer_default = 2131821092;
+    public static final int direct_boot_unaware_dialog_message = 2131821192;
+    public static final int disabled_by_admin = 2131821198;
+    public static final int disabled_by_admin_summary_text = 2131821199;
+    public static final int enabled_by_admin = 2131821237;
+    public static final int failed_to_open_app_settings_toast = 2131821262;
+    public static final int guest_exit_guest = 2131821281;
+    public static final int guest_new_guest = 2131821285;
+    public static final int guest_nickname = 2131821286;
+    public static final int help_label = 2131821300;
+    public static final int ime_security_warning = 2131821314;
+    public static final int media_transfer_this_device_name = 2131821579;
+    public static final int osu_completing_sign_up = 2131821727;
+    public static final int osu_connect_failed = 2131821728;
+    public static final int osu_opening_provider = 2131821729;
+    public static final int osu_sign_up_complete = 2131821730;
+    public static final int osu_sign_up_failed = 2131821731;
+    public static final int power_discharge_by = 2131821768;
+    public static final int power_discharge_by_enhanced = 2131821769;
+    public static final int power_discharge_by_only = 2131821770;
+    public static final int power_discharge_by_only_enhanced = 2131821771;
+    public static final int power_discharge_by_only_short = 2131821772;
+    public static final int power_discharging_duration = 2131821773;
+    public static final int power_discharging_duration_enhanced = 2131821774;
+    public static final int power_remaining_duration_only = 2131821777;
+    public static final int power_remaining_duration_only_enhanced = 2131821778;
+    public static final int power_remaining_duration_only_short = 2131821779;
+    public static final int power_remaining_duration_only_shutdown_imminent = 2131821780;
+    public static final int power_remaining_duration_shutdown_imminent = 2131821781;
+    public static final int power_remaining_less_than_duration = 2131821782;
+    public static final int power_remaining_less_than_duration_only = 2131821783;
+    public static final int power_remaining_more_than_subtext = 2131821784;
+    public static final int power_remaining_only_more_than_subtext = 2131821785;
+    public static final int preference_summary_default_combination = 2131821789;
+    public static final int private_dns_broken = 2131821790;
+    public static final int speed_label_fast = 2131822072;
+    public static final int speed_label_okay = 2131822074;
+    public static final int speed_label_slow = 2131822075;
+    public static final int speed_label_very_fast = 2131822076;
+    public static final int tap_to_sign_up = 2131822127;
+    public static final int wifi_ap_unable_to_handle_new_sta = 2131822290;
+    public static final int wifi_check_password_try_again = 2131822293;
+    public static final int wifi_connected_no_internet = 2131822294;
+    public static final int wifi_disabled_generic = 2131822302;
+    public static final int wifi_disabled_network_failure = 2131822303;
+    public static final int wifi_disabled_password_failure = 2131822304;
+    public static final int wifi_disconnected = 2131822306;
+    public static final int wifi_fail_to_scan = 2131822311;
+    public static final int wifi_limited_connection = 2131822315;
+    public static final int wifi_metered_label = 2131822316;
+    public static final int wifi_no_internet = 2131822318;
+    public static final int wifi_no_internet_no_reconnect = 2131822319;
+    public static final int wifi_not_in_range = 2131822320;
+    public static final int wifi_passpoint_expired = 2131822321;
+    public static final int wifi_remembered = 2131822322;
+    public static final int wifi_status_no_internet = 2131822358;
+    public static final int wifi_status_sign_in_required = 2131822359;
+    public static final int wifi_unmetered_label = 2131822360;
+    public static final int zen_alarm_warning = 2131822364;
+    public static final int zen_alarm_warning_indef = 2131822365;
+    public static final int zen_mode_enable_dialog_turn_on = 2131822371;
+    public static final int zen_mode_settings_turn_on_dialog_title = 2131822374;
+}
